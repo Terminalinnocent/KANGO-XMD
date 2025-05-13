@@ -29,7 +29,7 @@ global.ownernumber = process.env.OWNER_NUMBER || '254745428933'
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'Hector Manuel' 
+global.ownername = process.env.OWNER_NAME || 'Innocent' 
 
 //------------[ STICKER PACKNAME ]-----------------//
 
